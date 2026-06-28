@@ -11,7 +11,7 @@ Sistema de Reconstrucción Forense Genómica y Sináptica 4D para Thylacinus cyn
 Autor: Roberth Willians Mendoza Requena
 Correo electrónico: reumend@gmail.com
 GitHub: reumend
-Repositorio: SISTEMA-DE-RECONSTRUCCION-FORENSE-GENOMICA-Y-SINAPTICA-4D-PARA-THYLACINUS-CYNOCEPHALUS-SRFGSDV-4D-
+Repositorio: SISTEMA-DE-RECONSTRUCCION-FORENSE-GENOMICA-Y-SINAPTICA-4D-PARA-THYLACINUS-CYNOCEPHALUS-SRFGSTC-4D-
 Ubicación: Tamaca, Barquisimeto, Estado Lara, Venezuela
 Fecha: Junio 2026
 Versión: 2.0 — Definitiva — Thylacine Edition
